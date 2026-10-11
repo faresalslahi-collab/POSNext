@@ -55,3 +55,6 @@ typing-modules = ["frappe.types.DF"]
 quote-style = "double"
 indent-style = "tab"
 docstring-code-format = true
+git add .
+git commit -m "update pyproject.toml for version-16 compatibility"
+git push origin main
